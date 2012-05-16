@@ -2,6 +2,9 @@ Author
    dommy <shonan.shachu at gmail.com>
    @shonanshachu on twitter
 
+Target
+   iOS 4.0 or over
+
 Description
    TabViewController project is a sample pager view with tabs. The view is moveable with swipe motion or tap tabs.
 
